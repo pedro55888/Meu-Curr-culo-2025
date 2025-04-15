@@ -47,3 +47,11 @@ footer {
     margin-top: 20px;
     font-size: 0.9rem;
 }
+
+a { color: #0e9931;
+    text-decoration: none;
+    transition: color 0.3s;}
+    
+a:hover {
+color: #c084f5;
+text-decoration: underline;}
